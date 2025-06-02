@@ -1,6 +1,10 @@
 [FIRTS COMMIt]
 [PUSH MAIN] 
 
+User2:
+[COMMIT 1]
+[COMMIT 2]
+[COMMIT 3]
 User1:
 [COMMIT 1]
 [PUSH 1]
