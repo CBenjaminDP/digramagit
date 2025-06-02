@@ -1,1 +1,2 @@
 [FIRTS COMMIt]
+[PUSH MAIN] 
