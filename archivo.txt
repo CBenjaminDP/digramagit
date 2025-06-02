@@ -1,2 +1,5 @@
 [FIRTS COMMIt]
 [PUSH MAIN] 
+
+User2:
+[COMMIT 1]
